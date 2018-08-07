@@ -2,4 +2,6 @@
 just another repository
 
 
-me duele la bocaaa
+Hello there!
+I'am learning GitHub.
+
